@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Parliament Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15900135040283203,
+          51.55909024804244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Top of Queen's Wood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14500021934509277,
+          51.58326660910443
+        ]
+      }
+    }
+  ]
+}
